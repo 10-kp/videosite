@@ -1,5 +1,4 @@
 import "./navbar.scss"
-// import logo from "../navbar/flixlogo.png"
 import {ArrowDropDown, Notifications, Search } from "@material-ui/icons"
 
 const Navbar = () => {
@@ -8,7 +7,7 @@ const Navbar = () => {
         <div className="container">
         <div className="left">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png"
+            src="https://www.kindpng.com/picc/m/27-278507_camera-photo-video-icon-transparent-background-video-clipart.png"
             alt=""
           />
           <span>Homepage</span>
