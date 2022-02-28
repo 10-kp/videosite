@@ -3,54 +3,14 @@ import "./home.scss"
 
 const Home = () => {
   return (
-    <div className='home'>
+    <div className='home'> 
       <Navbar/>
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      Lokeewrasvrrasfg sdvasdfg srvr a evnra vksdvbsdk vas valg nagi vh Dfb lsdf uafgbaskldfjhal isfhb alskdfhali wefhbalsidf baliwfg ;ksd f;ag adhfgsdhgfal;sfga;f gbak;g bas;dzg brs;jbg ask; SEvn 3 
-      
+      <img
+          width="100%"
+            src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            alt=""
+          />
+     
     </div>
   )
 }

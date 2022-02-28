@@ -1,15 +1,23 @@
-import "./navbar.scss"
-import {ArrowDropDown, Notifications, Search } from "@material-ui/icons"
+import { ArrowDropDown, Notifications, Search } from "@material-ui/icons";
+import { useState } from "react";
+import "./navbar.scss";
 
 const Navbar = () => {
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  window.onscroll = () => {
+    setIsScrolled(window.pageYOffset === 0 ? false : true);
+    return () => (window.onscroll = null);
+  };
   return (
+    <div className={isScrolled ? "navbar scrolled" : "navbar"}>
     <div className="navbar">
         <div className="container">
         <div className="left">
           <img
             src="https://www.kindpng.com/picc/m/27-278507_camera-photo-video-icon-transparent-background-video-clipart.png"
             alt=""
-          />
+          /> 
           <span>Homepage</span>
           <span>Series</span>
           <span>Movies</span>
@@ -17,7 +25,7 @@ const Navbar = () => {
           <span>My List</span>
         </div>
         <div className="right">
-          <Search className="icon" />
+          <Search className="ico n" />
           <span>KID</span>
           <Notifications className="icon" />
           <img
@@ -33,6 +41,7 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 };
