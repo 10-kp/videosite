@@ -11,21 +11,20 @@ const Navbar = () => {
   };
   return (
     <div className={isScrolled ? "navbar scrolled" : "navbar"}>
-    <div className="navbar">
-        <div className="container">
+      <div className="container">
         <div className="left">
           <img
             src="https://www.kindpng.com/picc/m/27-278507_camera-photo-video-icon-transparent-background-video-clipart.png"
             alt=""
           /> 
-          <span>Homepage</span>
+            <span>Homepage</span>
           <span>Series</span>
           <span>Movies</span>
           <span>New and Popular</span>
           <span>My List</span>
         </div>
         <div className="right">
-          <Search className="ico n" />
+          <Search className="icon" />
           <span>KID</span>
           <Notifications className="icon" />
           <img
@@ -42,9 +41,7 @@ const Navbar = () => {
         </div>
       </div>
     </div>
-    </div>
   );
 };
 
-
-export default Navbar
+export default Navbar;

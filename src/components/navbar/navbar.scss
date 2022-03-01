@@ -12,15 +12,16 @@
   }
 
   .container {
-    padding: 0px 40px;
+    padding: 0px 50px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 60px;
+    height: 70px;
 
     .left {
       display: flex;
       align-items: center;
+
       img {
         height: 25px;
         margin-right: 40px;
@@ -40,9 +41,10 @@
         margin: 0px 15px;
         cursor: pointer;
       }
+
       img {
-        width: 20px;
-        height: 20px;
+        width: 30px;
+        height: 30px;
         border-radius: 5px;
         object-fit: cover;
         cursor: pointer;
@@ -54,10 +56,12 @@
           background-color: var(--main-color);
           border-radius: 5px;
         }
+
         span {
           padding: 10px;
-          border-radius: 5px;
+          cursor: pointer;
         }
+
         &:hover {
           .options {
             display: flex;
