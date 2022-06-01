@@ -1,38 +1,36 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
+
+// dotenv.config();
+require('dotenv').config({ path: './env' });
+
 const mongoose = require('mongoose');
-const dotenv = require('dotenv');
+// const dotenv = require('dotenv');
+
 const authRoute = require('./routes/auth');
+// const userRoute = require('./routes/users');
+// const movieRoute = require('./routes/movies');
+// const listRoute = require('./routes/lists');
 
-dotenv.config();
-
-// mongoose.connect(process.env.MONGO_URI, {
-//   useNewUrlParser: true,
-//   useUnifiedTopology: true,
-//   useCreateIndex: true,
-// });
-
-// console.log(process.env);
-// console.log('DB working');
-
-//   .then(() => console.log('DB Connection Successfull'))
-//   .catch((err) => {
-//     console.error(err);
-//   });
+mongoose
+  .connect('mongodb://localhost/videoFlix' || MONGO_URL, {
+    useNewUrlParser: true,
+    //   useUnifiedTopology: true,
+    //   useCreateIndex: true,
+  })
+  .then(() => console.log('DB Connection Successfull'))
+  .catch((err) => {
+    console.error(err);
+  });
 
 app.use(express.json());
 
 app.use('/api/auth', authRoute);
-
-// 2nd way for the .env file - Works
-main().catch((err) => console.log(err));
-
-// CONNECT WITH MONGO_URI!
-async function main() {
-  await mongoose.connect('mongodb://localhost:27017/test');
-}
-console.log('DB Connection Successful!');
+// app.use('/api/users', userRoute);
+// app.use('/api/movies', movieRoute);
+// app.use('/api/lists', listRoute);
 
 app.listen(8800, () => {
-  console.log('Backend Server is running!');
+  console.log('Backend server is running!');
 });
