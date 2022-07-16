@@ -28,9 +28,11 @@ router.post('/login', async (req, res) => {
     const user = await User.findOne({ email: req.body.email });
     !user && res.status(401).json('Wrong password or username!');
 
+    // To compare passwords entered by the user
     const bytes = CryptoJS.AES.decrypt(user.password, process.env.SECRET_KEY);
     const originalPassword = bytes.toString(CryptoJS.enc.Utf8);
 
+    // Decrypt
     originalPassword !== req.body.password &&
       res.status(401).json('Wrong password or username!');
 
@@ -42,7 +44,8 @@ router.post('/login', async (req, res) => {
       { expiresIn: '5d' }
     );
 
-    res.status(200).json({ ...info, accessToken });
+    res.status(200).json(user);
+    // ({ ...info, accessToken });
   } catch (err) {
     res.status(500).json(err);
   }
